@@ -58,6 +58,7 @@ RSpec.describe 'Bucketlists API', type: :request do
   describe 'POST /bucketlists' do
     # valid payload
     let(:valid_attributes) { { name: 'Cambodia' } }
+    
 
     context 'when the request is valid' do
       before { post '/bucketlists', params: { name: 'Cambodia'}.to_json, headers: headers}

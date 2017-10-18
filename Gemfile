@@ -8,7 +8,9 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.4'
-# Use sqlite3 as the database for Active Record
+# ruby version
+ruby "2.4.1"
+# Use sqlite3 as the database for Active Recor
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
@@ -26,6 +28,8 @@ gem 'faker'
 gem 'will_paginate', '~> 3.1.0'
 
 gem 'active_model_serializers', '~> 0.10.0'
+
+gem 'coveralls', require: false
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development

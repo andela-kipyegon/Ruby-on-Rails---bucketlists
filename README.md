@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/andela-kipyegon/Ruby-on-Rails---bucketlists.svg?branch=develop)](https://travis-ci.org/andela-kipyegon/Ruby-on-Rails---bucketlists)
+[![Coverage Status](https://coveralls.io/repos/github/andela-kipyegon/Ruby-on-Rails---bucketlists/badge.svg?branch=develop)](https://coveralls.io/github/andela-kipyegon/Ruby-on-Rails---bucketlists?branch=develop)
 # README
 
 This README would normally document whatever steps are necessary to get the
